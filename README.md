@@ -24,6 +24,7 @@
     
     Online:
     - Honkai: Star Rail
+    - Genshin Impact
     - Mobile Legends
       
     Offline:
@@ -33,6 +34,7 @@
     - Risk of Rain
     - Persona Series
     - Astral Chain
+    - Neon White
       </details>
 </details>  
 
