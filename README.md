@@ -59,11 +59,6 @@
   <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=40 height=40>
 </p>
 
-## 📊 My Top Languages
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamberu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #
 *This account is for my college journey, I may add some personal stuff but mostly will host projects assigned by the curriculum*
 
