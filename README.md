@@ -19,23 +19,6 @@
 - I am currently 18 years old
 - I like R&B music, some rap, home, and soul
 - I like cats and dogs, but mainly cats
-- <details>
-      <summary> I play games </summary>
-    
-    Online:
-    - Honkai: Star Rail
-    - Genshin Impact
-    - Mobile Legends
-      
-    Offline:
-    - Yakuza Series
-    - Dead Cells
-    - Pokemon
-    - Risk of Rain
-    - Persona Series
-    - Astral Chain
-    - Neon White
-      </details>
 </details>  
 
 
@@ -44,19 +27,13 @@
 <p align='left'>
   <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=40 height=40>
   <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
-  <img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40>
-  <img alt="Android Studio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width=40 height=40>
   <img alt="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width=40 height=40>
   <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
   <img alt="Heroku" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width=40 height=40>
-  <img alt="GCC" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width=40 height=40>
-  <img alt="Firefox" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width=40 height=40>
-  <img alt="Jetbrains" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width=40 height=40>
   <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=40 height=40>
   <img alt="Postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40 height=40>
   <img alt="Selenium" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width=40 height=40>
   <img alt="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width=40 height=40>
-  <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=40 height=40>
 </p>
 
 #
